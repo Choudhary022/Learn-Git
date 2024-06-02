@@ -28,3 +28,9 @@ function basic ()
     
 }
 
+function importantCode ()
+{
+    console.log("can't remove this coe ");
+    
+}
+
