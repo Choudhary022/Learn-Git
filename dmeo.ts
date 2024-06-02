@@ -21,3 +21,10 @@ function revert ()
 {
     console.log("Pratice Revert command");
 }
+
+function basic ()
+{
+    console.log("Basic code ");
+    
+}
+
