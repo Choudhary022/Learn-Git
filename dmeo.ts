@@ -21,3 +21,10 @@ function revert ()
 {
     console.log("Pratice Revert command");
 }
+
+
+function talkIsCheap()
+{
+    console.log("Talk is cheap Show me the code  ");
+    
+}
