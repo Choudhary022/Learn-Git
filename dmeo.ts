@@ -16,3 +16,8 @@ interface Teacher{
 name:string
 age:number
 }
+
+function revert ()
+{
+    console.log("Pratice Revert command");
+}
