@@ -22,15 +22,11 @@ function revert ()
     console.log("Pratice Revert command");
 }
 
-function basic ()
-{
-    console.log("Basic code ");
-    
-}
 
 function importantCode ()
 {
     console.log("can't remove this coe ");
     
 }
+
 
