@@ -16,3 +16,7 @@ interface Teacher{
 name:string
 age:number
 }
+
+// comment added to check the  revert of git 
+
+
